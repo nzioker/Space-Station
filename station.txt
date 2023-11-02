@@ -1,0 +1,10 @@
+We have 7 astronauts on board. 
+Name: Jasmin Moghbeli Craft: ISS
+Name: Andreas Mogensen Craft: ISS
+Name: Satoshi Furukawa Craft: ISS
+Name: Konstantin Borisov Craft: ISS
+Name: Oleg Kononenko Craft: ISS
+Name: Nikolai Chub Craft: ISS
+Name: Loral O'Hara Craft: ISS
+
+Your current coordinates are, [-1.2833, 36.8167]
